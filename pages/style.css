@@ -1,0 +1,167 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    background-color:#fff2f0 ;
+    height: 50px;
+    width: 100%;
+    padding: 8px 15px;
+}
+.text-header{
+    color: #721C24;
+    font-size: 16px;
+    text-align: center;
+}
+.text-header p{
+    color: #721C24;
+    font-size: 12px;
+    text-align: center;
+    font-weight: bold;
+}
+.header-nav{
+    width: 100%;
+    height: 200px;
+    padding: 0px 12px;
+}
+.logo{
+    text-align: center;
+}
+
+.image{
+    margin-left: 100px;
+}
+
+.box2 h2{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+}
+.box2 p{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.header-button{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+.header-button button{
+    width: 150px;
+    height: 40px;
+    background-color: #ffffff;
+    margin: 0px,0px,0px,2px;
+    padding: 8px,16px;
+    border: none;
+}
+#button1{
+    color: #8DC63F;
+}
+#button2{
+    color: #0D6DB7;
+}
+#button3{
+    color: #0D6DB7;
+}
+.content{
+    margin: 20px;
+    
+}
+.content-box1{
+    display: flex;
+    justify-content: center;
+}
+.city{
+    width:350px ;
+    height: 50px;
+    margin-left: 20px;
+    border: 1px solid #8DC63F;
+    border-radius: 5px;
+    padding: 5px;
+}
+.label{
+    width:300px ;
+    height: 50px;
+    margin-left: 20px;
+    border-radius: 5px;
+    padding: 5px;
+    color: #0D6DB7;   
+}
+.city2{
+    width: 338px;
+    height: 40px;
+    margin-left: 20px;
+    border: 1px solid #8DC63F;
+    border-radius: 5px;
+    padding: 5px;
+}
+.city3{
+    width: 710px;
+    height: 40px;
+    border: 1px solid #8DC63F;
+    border-radius: 5px;
+    margin-left: 300px;
+    padding: 5px;
+}
+.label2{
+    width:300px ;
+    height: 50px;
+    margin-left: 300px;
+    border-radius: 5px;
+    padding: 5px;
+    color: #0D6DB7;  
+}
+.city4{
+    border-radius: 5px;
+    margin-left: 300px;
+    padding: 5px;
+}
+.city5{
+        width: 700px;
+        height: 180px;
+        margin-top: 10px;
+        margin-left: 24%;
+        padding: 5px;
+        
+}
+.city6 button{
+    width: 710px;
+    height: 40px;
+    background-color: #0D6DB7;
+    color: white;
+    font-size: large;
+    border: #0D6DB7;
+    border-radius: 5px;
+    margin-left: 300px;
+    padding: 5px;   
+}
+.city8{
+    width: 500px;
+    height: 40px;
+    border: 1px solid #8DC63F;
+    border-radius: 5px;
+    margin-left: 400px;
+    padding: 5px;
+
+}
+.label3{
+    width:300px ;
+    height: 50px;
+    margin-left: 400px;
+    border-radius: 5px;
+    padding: 5px;
+    color: #0D6DB7;  
+}
+.city9 button{
+    width: 500px;
+    height: 40px;
+    background-color: #0D6DB7;
+    color: white;
+    font-size: large;
+    border: #0D6DB7;
+    border-radius: 5px;
+    margin-left: 400px;
+    padding: 5px;   
+}
